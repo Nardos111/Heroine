@@ -1,0 +1,104 @@
+@import url("index.css");
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Lobster&display=swap');
+blockquote {
+    font-weight: 100;
+    font-size: 3rem;
+    max-width: 100%;
+    line-height: 1.4;
+    position: relative;
+    margin: 0;
+    font-family: 'Special Elite', cursive;
+    color: #3f3f5a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+    text-align: center;
+}
+
+blockquote:before, blockquote:after {
+    position: absolute;
+    color: #f1efe6;
+    font-size: 8rem;
+    width: 4rem;
+    height: 4rem;
+}
+
+blockquote:before {
+    content: '“';
+    left: -5rem;
+    top: -2rem;
+}
+
+blockquote:after {
+    content: '”';
+    right: -5rem;
+    bottom: 1rem;
+}
+
+cite {
+    line-height: 3;
+    text-align: left;
+}
+
+#logo:after {
+    content: "WOMENtorship";
+    position: absolute;
+    left: 8px;
+    top: 32px;
+}
+
+#logo {
+    text-transform: none;
+    margin-left: 0px;
+}
+
+#text {
+    width: 50%;
+    float: left;
+}
+
+div>p {
+    font-family: 'Bradley Hand';
+    font-size: 1.3rem;
+    text-align: justify;
+    line-height: 30px;
+}
+
+#mentor:hover, #mentee:hover {
+    letter-spacing: 0.5em;
+    background-color: #eee;
+    color: rgb(85, 85, 85);
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+}
+
+#mentor, #mentee {
+    color: white;
+    font-size: 15px;
+}
+
+#mentee {
+    margin-left: 50px;
+}
+
+button {
+    height: 4em;
+    padding: 1.5em auto;
+    margin: 1em auto;
+    background-color: rgb(85, 85, 85);
+    border: none;
+    border-radius: 5px;
+    width: 10em;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    transition: all 0.2s cubic-bezier(.4, 0, .2, 1);
+}
+
+#mentor-buttons {
+    float: left;
+    margin-left: 90px;
+    margin-top: 40px;
+}
