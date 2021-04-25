@@ -25,6 +25,19 @@ def scrape():
         compiled.append([title.get_text(), author.get_text(),
                          info.get_text(), link["href"]])
 
+    about = []
+    for book in compiled:
+        url = "https://www.goodreads.com"+book[-1]
+        page = requests.get(url)
+        soup = bs(page.content, 'html.parser')
+        about = soup.find_all('div', class_='readable')
+        for item in about:
+            index = compiled.index(book)
+            compiled[index].append((item.get_text()))
+
+    # # print(about)
+    # # print(len(compiled))
+    # print(compiled[0])
     sys.stdout = open("booklist.txt", "w")
 
     print(compiled)
