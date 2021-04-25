@@ -38,11 +38,9 @@ def scrape():
     # # print(about)
     # # print(len(compiled))
     # print(compiled[0])
-    sys.stdout = open("booklist.txt", "w")
-
-    print(compiled)
-
-    sys.stdout.close()
+    with open('book_info.txt', 'w') as f:
+        for item in compiled:
+            f.write("%s\n" % item)
 
 
 scrape()
