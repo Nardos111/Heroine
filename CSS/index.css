@@ -48,7 +48,7 @@ body {
 
 #menu li {
     display: inline-block;
-    width: 173px;
+    width: 180px;
     margin: 0 10px;
     position: relative;
     -webkit-transform: skewy(-3deg);
@@ -107,6 +107,10 @@ body {
     left: 0;
     bottom: -4px;
     background-image: -webkit-linear-gradient( right, transparent 0%, rgba(0, 0, 0, 0.4) 100%);
+}
+
+.container {
+    position: absolute;
 }
 
 /* #top_image {

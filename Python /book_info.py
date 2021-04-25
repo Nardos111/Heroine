@@ -34,10 +34,6 @@ def scrape():
         for item in about:
             index = compiled.index(book)
             compiled[index].append((item.get_text()))
-
-    # # print(about)
-    # # print(len(compiled))
-    # print(compiled[0])
     with open('book_info.txt', 'w') as f:
         for item in compiled:
             f.write("%s\n" % item)
