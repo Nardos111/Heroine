@@ -2,7 +2,6 @@
 import requests
 from bs4 import BeautifulSoup as bs
 import sys
-import re
 import json
 
 
@@ -11,8 +10,8 @@ def get_news():
     page = requests.get(url)
     soup = bs(page.content, 'html.parser')
     jsonData = json.loads(soup.get_text())
-    json_object = json.dumps(jsonData, indent=4)
-    with open("data.json", "w") as outfile:
+    json_object = json.dumps(jsonData["articles"], indent=4)
+    with open("news.json", "w") as outfile:
         outfile.write(json_object)
 
 

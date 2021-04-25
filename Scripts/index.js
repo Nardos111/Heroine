@@ -19,17 +19,15 @@
 // }
 
 
-function retrieve() {
 
-    const apiKey = '423b4fa3ae35431b927b27cdcf3bcace'
-    let topic = "women empowerment"
-    let url = "https://newsapi.org/v2/everything?q=women%20empowerment&apiKey=423b4fa3ae35431b927b27cdcf3bcace"
-    $.ajax({
-        type: "POST",
-        url: "~/get_news.py",
-        data: { param: url }
-    }).done(function (o) {
-        console.log(o)
-    });
+// retrieve()
+
+function addNews() {
+    fetch("news.json")
+        .then(response => response.json())
+        .then(json => console.log(json));
+
 }
-retrieve()
+
+
+addNews()

@@ -1,266 +1,262 @@
-{
-    "status": "ok",
-    "totalResults": 1261,
-    "articles": [
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Pierre-Antoine Louis",
-            "title": "A Love Letter to Black Women",
-            "description": "A first solo exhibition by the Bahamian artist Gio Swaby aims to redefine the often politicized Black body.",
-            "url": "https://www.nytimes.com/2021/04/10/us/a-love-letter-to-black-women.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/04/10/arts/10race-related-artist/10race-related-artist-facebookJumbo.jpg",
-            "publishedAt": "2021-04-10T12:03:16Z",
-            "content": "Why is it important for you to highlight the theme of Blackness and womanhood?\r\nA lot of what I do starts from me as a person, from my identity. Im thinking about looking at everything through the le\u2026 [+2109 chars]"
+[
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Kevin Draper",
-            "title": "Simone Biles Leaves Nike for a Sponsor That Focuses on Women",
-            "description": "As part of the deal, Athleta, the new sponsor, has agreed to back a post-Olympic exhibition tour that Biles was already planning.",
-            "url": "https://www.nytimes.com/2021/04/23/sports/olympics/simone-biles-athleta-nike.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/04/24/sports/23biles-nike-athleta-print/23biles-nike-athleta-facebookJumbo.jpg",
-            "publishedAt": "2021-04-23T22:42:41Z",
-            "content": "Nike and other companies want to tell potential customers a story about elite athletic performance and product innovation a narrative that becomes easier to sell (and possibly to believe) when hundre\u2026 [+1582 chars]"
+        "author": "Pierre-Antoine Louis",
+        "title": "A Love Letter to Black Women",
+        "description": "A first solo exhibition by the Bahamian artist Gio Swaby aims to redefine the often politicized Black body.",
+        "url": "https://www.nytimes.com/2021/04/10/us/a-love-letter-to-black-women.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/04/10/arts/10race-related-artist/10race-related-artist-facebookJumbo.jpg",
+        "publishedAt": "2021-04-10T12:03:16Z",
+        "content": "Why is it important for you to highlight the theme of Blackness and womanhood?\r\nA lot of what I do starts from me as a person, from my identity. Im thinking about looking at everything through the le\u2026 [+2109 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Matt Wolf",
-            "title": "'Living Newspaper' at the Royal Court Theater Stirs Up Stories of Our Time",
-            "description": "Tired of reading the headlines? You can watch artistic interpretations of the stories of our era by trailing actors in a Living Newspaper production, section by section.",
-            "url": "https://www.nytimes.com/2021/04/22/theater/living-newspaper-royal-court.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/04/22/world/22londontheater01/22londontheater01-facebookJumbo.jpg",
-            "publishedAt": "2021-04-22T09:02:56Z",
-            "content": "Themes of empowerment and self-identity recur, just as various forms of the word apocalypse betray a prevailing unease. Normalcy exists only to be upended, not least in Crowes The Tree, the Leg and t\u2026 [+1718 chars]"
+        "author": "Kevin Draper",
+        "title": "Simone Biles Leaves Nike for a Sponsor That Focuses on Women",
+        "description": "As part of the deal, Athleta, the new sponsor, has agreed to back a post-Olympic exhibition tour that Biles was already planning.",
+        "url": "https://www.nytimes.com/2021/04/23/sports/olympics/simone-biles-athleta-nike.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/04/24/sports/23biles-nike-athleta-print/23biles-nike-athleta-facebookJumbo.jpg",
+        "publishedAt": "2021-04-23T22:42:41Z",
+        "content": "Nike and other companies want to tell potential customers a story about elite athletic performance and product innovation a narrative that becomes easier to sell (and possibly to believe) when hundre\u2026 [+1582 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Danielle Zoellner",
-            "title": "Kamala Harris appears at women\u2019s event with Bill Clinton after anger over sexual harassment claims against him",
-            "description": "The talk, held on Friday, was to discuss female empowerment amid Covid-19",
-            "url": "https://news.yahoo.com/kamala-harris-appears-women-event-202144481.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/SzvT_gCsyjeX.yx_KIGvZA--~B/aD0zMDc7dz00NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_independent_635/a90b4f197ce3c689f2098845355defb8",
-            "publishedAt": "2021-03-26T20:21:44Z",
-            "content": "Vice President Kamala Harris attended a Clinton Foundation event with Bill Clinton to discuss female empowerment amid Covid-19, but the scheduled talk sparked backlash given the former president's pa\u2026 [+926 chars]"
+        "author": "Matt Wolf",
+        "title": "'Living Newspaper' at the Royal Court Theater Stirs Up Stories of Our Time",
+        "description": "Tired of reading the headlines? You can watch artistic interpretations of the stories of our era by trailing actors in a Living Newspaper production, section by section.",
+        "url": "https://www.nytimes.com/2021/04/22/theater/living-newspaper-royal-court.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/04/22/world/22londontheater01/22londontheater01-facebookJumbo.jpg",
+        "publishedAt": "2021-04-22T09:02:56Z",
+        "content": "Themes of empowerment and self-identity recur, just as various forms of the word apocalypse betray a prevailing unease. Normalcy exists only to be upended, not least in Crowes The Tree, the Leg and t\u2026 [+1718 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
         },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters Staff",
-            "title": "U.S. working to add $300 million in civilian aid to Afghanistan: Blinken - Reuters",
-            "description": "The Biden administration is working with Congress to provide nearly $300 million in civilian aid to Afghanistan, U.S. Secretary of State Antony Blinken said on Wednesday, funds the Trump administration conditioned on progress in peace talks.",
-            "url": "https://www.reuters.com/article/us-usa-afghanistan-aid-idUSKBN2C82KE",
-            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210421&t=2&i=1559414589&r=LYNXMPEH3K1GF&w=800",
-            "publishedAt": "2021-04-21T17:37:00Z",
-            "content": "By Reuters Staff\r\nU.S. Secretary of State Antony Blinken speaks about climate change at the Chesapeake Bay Foundation in Annapolis, Maryland, U.S., April 19, 2021. Jacquelyn Martin/Pool via REUTERS\r\n\u2026 [+1746 chars]"
+        "author": "Danielle Zoellner",
+        "title": "Kamala Harris appears at women\u2019s event with Bill Clinton after anger over sexual harassment claims against him",
+        "description": "The talk, held on Friday, was to discuss female empowerment amid Covid-19",
+        "url": "https://news.yahoo.com/kamala-harris-appears-women-event-202144481.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/SzvT_gCsyjeX.yx_KIGvZA--~B/aD0zMDc7dz00NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_independent_635/a90b4f197ce3c689f2098845355defb8",
+        "publishedAt": "2021-03-26T20:21:44Z",
+        "content": "Vice President Kamala Harris attended a Clinton Foundation event with Bill Clinton to discuss female empowerment amid Covid-19, but the scheduled talk sparked backlash given the former president's pa\u2026 [+926 chars]"
+    },
+    {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Nicole Lyn Pesce",
-            "title": "The Margin: Kamala Harris and Bill Clinton are holding a talk about women\u2019s empowerment \u2014 cue the critics",
-            "description": "Some people are bringing up the former president\u2019s history with women",
-            "url": "https://www.marketwatch.com/story/kamala-harris-and-bill-clinton-are-holding-a-talk-about-womens-empowerment-cue-the-critics-11616604751",
-            "urlToImage": "https://images.mktw.net/im-315808/social",
-            "publishedAt": "2021-03-24T15:52:00Z",
-            "content": "Vice President Kamala Harris and former President Bill Clinton are scheduled to discuss empowering women and girls in the U.S. on Friday and many people on Twitter have some thoughts about that, to p\u2026 [+1692 chars]"
+        "author": "Reuters Staff",
+        "title": "U.S. working to add $300 million in civilian aid to Afghanistan: Blinken - Reuters",
+        "description": "The Biden administration is working with Congress to provide nearly $300 million in civilian aid to Afghanistan, U.S. Secretary of State Antony Blinken said on Wednesday, funds the Trump administration conditioned on progress in peace talks.",
+        "url": "https://www.reuters.com/article/us-usa-afghanistan-aid-idUSKBN2C82KE",
+        "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210421&t=2&i=1559414589&r=LYNXMPEH3K1GF&w=800",
+        "publishedAt": "2021-04-21T17:37:00Z",
+        "content": "By Reuters Staff\r\nU.S. Secretary of State Antony Blinken speaks about climate change at the Chesapeake Bay Foundation in Annapolis, Maryland, U.S., April 19, 2021. Jacquelyn Martin/Pool via REUTERS\r\n\u2026 [+1746 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Entrepreneur"
-            },
-            "author": "Entrepreneur en Espa\u00f1ol",
-            "title": "The 3 startups in Latin America will compete for $ 500,000",
-            "description": "Seedstars World is the largest global startup competition in emerging markets.",
-            "url": "https://www.entrepreneur.com/article/368766",
-            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1617730500-seedstars.jpg",
-            "publishedAt": "2021-04-06T17:35:00Z",
-            "content": "This article was translated from our Spanish edition using AI technologies. Errors may exist due to this process.\r\nThe Seedstars World Competition, the largest global startup competition in emerging \u2026 [+1592 chars]"
+        "author": "Nicole Lyn Pesce",
+        "title": "The Margin: Kamala Harris and Bill Clinton are holding a talk about women\u2019s empowerment \u2014 cue the critics",
+        "description": "Some people are bringing up the former president\u2019s history with women",
+        "url": "https://www.marketwatch.com/story/kamala-harris-and-bill-clinton-are-holding-a-talk-about-womens-empowerment-cue-the-critics-11616604751",
+        "urlToImage": "https://images.mktw.net/im-315808/social",
+        "publishedAt": "2021-03-24T15:52:00Z",
+        "content": "Vice President Kamala Harris and former President Bill Clinton are scheduled to discuss empowering women and girls in the U.S. on Friday and many people on Twitter have some thoughts about that, to p\u2026 [+1692 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Entrepreneur"
         },
-        {
-            "source": {
-                "id": "the-hindu",
-                "name": "The Hindu"
-            },
-            "author": "PTI",
-            "title": "India contributes $300,000 to UN Women",
-            "description": "India made the contribution to UN Women, the world organisation\u2019s entity for gender equality and women's empowerment.",
-            "url": "https://www.thehindu.com/news/national/india-contributes-300000-to-un-women/article34221932.ece",
-            "urlToImage": "https://www.thehindu.com/news/national/ikel9r/article33939646.ece/ALTERNATES/LANDSCAPE_615/thjc--T-S-Tirumurti",
-            "publishedAt": "2021-04-02T07:00:10Z",
-            "content": "India has contributed $300,000 to the United Nations agency for gender equality and women empowerment, a contribution lauded by the UN entity.\r\nIndia made the contribution to UN Women, the world orga\u2026 [+683 chars]"
+        "author": "Entrepreneur en Espa\u00f1ol",
+        "title": "The 3 startups in Latin America will compete for $ 500,000",
+        "description": "Seedstars World is the largest global startup competition in emerging markets.",
+        "url": "https://www.entrepreneur.com/article/368766",
+        "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1617730500-seedstars.jpg",
+        "publishedAt": "2021-04-06T17:35:00Z",
+        "content": "This article was translated from our Spanish edition using AI technologies. Errors may exist due to this process.\r\nThe Seedstars World Competition, the largest global startup competition in emerging \u2026 [+1592 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hindu",
+            "name": "The Hindu"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Jalopnik"
-            },
-            "author": "Elizabeth Blackstock",
-            "title": "Bogi Lateiner Of 'All Girls Garage' On The Empowerment Of Repairing Your Own Vehicle",
-            "description": "Bogi Lateiner epitomizes the term \u201ccar enthusiast.\u201d She may not have grown up going gaga over four-wheeled machines, but after buying a Volkswagen Beetle\u2014her dream car\u2014while in high school, she knew she\u2019d found her path. She rebuilt that car from the ground u\u2026",
-            "url": "https://jalopnik.com/bogi-lateiner-of-all-girls-garage-on-the-empowerment-of-1846566946",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/pu8qg7djqbxzt2cgvlcv.png",
-            "publishedAt": "2021-03-28T14:00:00Z",
-            "content": "Bogi Lateiner epitomizes the term car enthusiast. She may not have grown up going gaga over four-wheeled machines, but after buying a Volkswagen Beetleher dream carwhile in high school, she knew shed\u2026 [+20385 chars]"
+        "author": "PTI",
+        "title": "India contributes $300,000 to UN Women",
+        "description": "India made the contribution to UN Women, the world organisation\u2019s entity for gender equality and women's empowerment.",
+        "url": "https://www.thehindu.com/news/national/india-contributes-300000-to-un-women/article34221932.ece",
+        "urlToImage": "https://www.thehindu.com/news/national/ikel9r/article33939646.ece/ALTERNATES/LANDSCAPE_615/thjc--T-S-Tirumurti",
+        "publishedAt": "2021-04-02T07:00:10Z",
+        "content": "India has contributed $300,000 to the United Nations agency for gender equality and women empowerment, a contribution lauded by the UN entity.\r\nIndia made the contribution to UN Women, the world orga\u2026 [+683 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jalopnik"
         },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Ryan Heath",
-            "title": "Ivanka Trump's flagship policy program slammed by government auditors",
-            "description": "She touted more rigorous standards for women's empowerment, but USAID delivered the opposite.",
-            "url": "https://www.politico.com/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710",
-            "urlToImage": "https://static.politico.com/c8/c4/dd2581fb4799a6a66ebf77333c62/20210331-ivanka-trump-ap-773.jpg",
-            "publishedAt": "2021-03-31T17:34:28Z",
-            "content": "Supporters of W-GDP saw it as a groundbreaking whole-of-government approach to female empowerment, while critics of the new law derided it as too limited to make a real difference. \r\nThe plan was to \u2026 [+3659 chars]"
+        "author": "Elizabeth Blackstock",
+        "title": "Bogi Lateiner Of 'All Girls Garage' On The Empowerment Of Repairing Your Own Vehicle",
+        "description": "Bogi Lateiner epitomizes the term \u201ccar enthusiast.\u201d She may not have grown up going gaga over four-wheeled machines, but after buying a Volkswagen Beetle\u2014her dream car\u2014while in high school, she knew she\u2019d found her path. She rebuilt that car from the ground u\u2026",
+        "url": "https://jalopnik.com/bogi-lateiner-of-all-girls-garage-on-the-empowerment-of-1846566946",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/pu8qg7djqbxzt2cgvlcv.png",
+        "publishedAt": "2021-03-28T14:00:00Z",
+        "content": "Bogi Lateiner epitomizes the term car enthusiast. She may not have grown up going gaga over four-wheeled machines, but after buying a Volkswagen Beetleher dream carwhile in high school, she knew shed\u2026 [+20385 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
         },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Ryan Heath",
-            "title": "Ivanka Trump's women's empowerment push undercut by shoddy implementation",
-            "description": "She touted more rigorous standards for women's empowerment, but USAID didn't deliver.",
-            "url": "https://www.politico.com/news/2021/03/31/ivanka-trumps-womens-empowerment-push-undercut-by-shoddy-implementation-478710",
-            "urlToImage": "https://static.politico.com/c8/c4/dd2581fb4799a6a66ebf77333c62/20210331-ivanka-trump-ap-773.jpg",
-            "publishedAt": "2021-03-31T17:34:28Z",
-            "content": "Launched weeks after President Trump signed the WEEE Act in early 2019, supporters of wider W-GDP program saw it as a groundbreaking approach to female empowerment. They hoped to give poor women entr\u2026 [+4572 chars]"
+        "author": "Ryan Heath",
+        "title": "Ivanka Trump's flagship policy program slammed by government auditors",
+        "description": "She touted more rigorous standards for women's empowerment, but USAID delivered the opposite.",
+        "url": "https://www.politico.com/news/2021/03/31/ivanka-trump-womens-initiative-gao-478710",
+        "urlToImage": "https://static.politico.com/c8/c4/dd2581fb4799a6a66ebf77333c62/20210331-ivanka-trump-ap-773.jpg",
+        "publishedAt": "2021-03-31T17:34:28Z",
+        "content": "Supporters of W-GDP saw it as a groundbreaking whole-of-government approach to female empowerment, while critics of the new law derided it as too limited to make a real difference. \r\nThe plan was to \u2026 [+3659 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
         },
-        {
-            "source": {
-                "id": "time",
-                "name": "Time"
-            },
-            "author": "Megan McCluskey",
-            "title": "The WNBA Has Pulled a Controversial Jersey Days After Unveiling It. Here\u2019s Why Many Found the Design Problematic",
-            "description": "After the WNBA unveiled new uniforms for its upcoming season, a Dallas Wings' jersey has come under fire for the history behind its design.",
-            "url": "https://time.com/5954958/wnba-dallas-wings-nike-rebel-jersey-controversy/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2021/04/wnba-dallas-wings.jpg?quality=85&w=594&h=396&crop=1",
-            "publishedAt": "2021-04-16T19:04:15Z",
-            "content": "In the wake of the WNBA unveiling new team uniforms for its upcoming 2021 season, one version of the Dallas Wings\u2019 jerseys has come under fire for the history behind its design.\r\nOn April 8, the WNBA\u2026 [+6215 chars]"
+        "author": "Ryan Heath",
+        "title": "Ivanka Trump's women's empowerment push undercut by shoddy implementation",
+        "description": "She touted more rigorous standards for women's empowerment, but USAID didn't deliver.",
+        "url": "https://www.politico.com/news/2021/03/31/ivanka-trumps-womens-empowerment-push-undercut-by-shoddy-implementation-478710",
+        "urlToImage": "https://static.politico.com/c8/c4/dd2581fb4799a6a66ebf77333c62/20210331-ivanka-trump-ap-773.jpg",
+        "publishedAt": "2021-03-31T17:34:28Z",
+        "content": "Launched weeks after President Trump signed the WEEE Act in early 2019, supporters of wider W-GDP program saw it as a groundbreaking approach to female empowerment. They hoped to give poor women entr\u2026 [+4572 chars]"
+    },
+    {
+        "source": {
+            "id": "time",
+            "name": "Time"
         },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "USA TODAY, Maria Puente, USA TODAY",
-            "title": "How Hollywood's male power players can step up and be allies to women",
-            "description": "Chastened by still-pitiful numbers of women before and behind Hollywood's cameras, some men are trying to be allies. Is it enough to get real change?",
-            "url": "https://www.usatoday.com/in-depth/entertainment/celebrities/2021/04/05/hollywood-power-players-these-men-helping-achieve-gender-equity/7000554002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2021/04/01/USAT/3a3a0b39-4ac2-4a10-9478-b0700d77d4c1-hollywood_allies_topper_v2.jpg?crop=1442,811,x0,y224&width=1200",
-            "publishedAt": "2021-04-05T13:53:30Z",
-            "content": "Hollywood women\u00a0fed up with their pitiful numbers behind the cameras have long agitated for more power.Now, more of the men with clout in showbiz\u00a0have joined the cause.\r\nThey include men like Paul Fe\u2026 [+8711 chars]"
+        "author": "Megan McCluskey",
+        "title": "The WNBA Has Pulled a Controversial Jersey Days After Unveiling It. Here\u2019s Why Many Found the Design Problematic",
+        "description": "After the WNBA unveiled new uniforms for its upcoming season, a Dallas Wings' jersey has come under fire for the history behind its design.",
+        "url": "https://time.com/5954958/wnba-dallas-wings-nike-rebel-jersey-controversy/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2021/04/wnba-dallas-wings.jpg?quality=85&w=594&h=396&crop=1",
+        "publishedAt": "2021-04-16T19:04:15Z",
+        "content": "In the wake of the WNBA unveiling new team uniforms for its upcoming 2021 season, one version of the Dallas Wings\u2019 jerseys has come under fire for the history behind its design.\r\nOn April 8, the WNBA\u2026 [+6215 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
         },
-        {
-            "source": {
-                "id": "the-hindu",
-                "name": "The Hindu"
-            },
-            "author": "Staff Reporter",
-            "title": "TN Assembly polls | Why is PM silent on Women\u2019s Reservation Bill, asks CPI\u2019s D. Raja",
-            "description": "Mr. Raja said that if the Prime Minister was concerned about women empowerment, he would have ensured the passage of the long-pending Bill in the Lok Sabha",
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-polls-why-is-pm-silent-on-womens-reservation-bill-asks-cpis-d-raja/article34206372.ece",
-            "urlToImage": "https://www.thehindu.com/news/national/tamil-nadu/j7sdyk/article34206371.ece/ALTERNATES/LANDSCAPE_615/31MARTH--Raja",
-            "publishedAt": "2021-03-31T11:12:45Z",
-            "content": "CPI general secretary D. Raja on Wednesday questioned Prime Minister Narendra Modi on his silence regarding the passage of the Womens Reservation Bill in Parliament that proposes 33% reservation for \u2026 [+1320 chars]"
+        "author": "USA TODAY, Maria Puente, USA TODAY",
+        "title": "How Hollywood's male power players can step up and be allies to women",
+        "description": "Chastened by still-pitiful numbers of women before and behind Hollywood's cameras, some men are trying to be allies. Is it enough to get real change?",
+        "url": "https://www.usatoday.com/in-depth/entertainment/celebrities/2021/04/05/hollywood-power-players-these-men-helping-achieve-gender-equity/7000554002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2021/04/01/USAT/3a3a0b39-4ac2-4a10-9478-b0700d77d4c1-hollywood_allies_topper_v2.jpg?crop=1442,811,x0,y224&width=1200",
+        "publishedAt": "2021-04-05T13:53:30Z",
+        "content": "Hollywood women\u00a0fed up with their pitiful numbers behind the cameras have long agitated for more power.Now, more of the men with clout in showbiz\u00a0have joined the cause.\r\nThey include men like Paul Fe\u2026 [+8711 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hindu",
+            "name": "The Hindu"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Entrepreneur"
-            },
-            "author": "Elyssa Seidman",
-            "title": "What 'Bridgerton' Can Teach Marketers About Today's Consumers",
-            "description": "The bodice-ripping Netflix hit's themes are, in fact, timeless.",
-            "url": "https://www.entrepreneur.com/article/366992",
-            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1617374132-bridgerton-marketers-consumers.jpg",
-            "publishedAt": "2021-04-05T14:30:00Z",
-            "content": "Opinions expressed by Entrepreneur contributors are their own.\r\nIf you haven\u2019t joined me and the 60 million who binge watched Bridgerton on Netflix, you might be wondering what all the fuss is about.\u2026 [+6394 chars]"
+        "author": "Staff Reporter",
+        "title": "TN Assembly polls | Why is PM silent on Women\u2019s Reservation Bill, asks CPI\u2019s D. Raja",
+        "description": "Mr. Raja said that if the Prime Minister was concerned about women empowerment, he would have ensured the passage of the long-pending Bill in the Lok Sabha",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-polls-why-is-pm-silent-on-womens-reservation-bill-asks-cpis-d-raja/article34206372.ece",
+        "urlToImage": "https://www.thehindu.com/news/national/tamil-nadu/j7sdyk/article34206371.ece/ALTERNATES/LANDSCAPE_615/31MARTH--Raja",
+        "publishedAt": "2021-03-31T11:12:45Z",
+        "content": "CPI general secretary D. Raja on Wednesday questioned Prime Minister Narendra Modi on his silence regarding the passage of the Womens Reservation Bill in Parliament that proposes 33% reservation for \u2026 [+1320 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Entrepreneur"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ryan Lenora Brown",
-            "title": "In South African architecture, women build on social justice",
-            "description": "Diversity in architecture and urban design is part of a wider conversation about who gets to design the spaces we move through every day.",
-            "url": "https://news.yahoo.com/south-african-architecture-women-build-162635386.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-            "publishedAt": "2021-04-20T16:26:35Z",
-            "content": "When Ngillan Faal was growing up in Gambia, in West Africa, it was clear to her that her familys colonial bungalow had not been designed by or for people like them.\r\nIt had a kitchen with a stove, bu\u2026 [+6743 chars]"
+        "author": "Elyssa Seidman",
+        "title": "What 'Bridgerton' Can Teach Marketers About Today's Consumers",
+        "description": "The bodice-ripping Netflix hit's themes are, in fact, timeless.",
+        "url": "https://www.entrepreneur.com/article/366992",
+        "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1617374132-bridgerton-marketers-consumers.jpg",
+        "publishedAt": "2021-04-05T14:30:00Z",
+        "content": "Opinions expressed by Entrepreneur contributors are their own.\r\nIf you haven\u2019t joined me and the 60 million who binge watched Bridgerton on Netflix, you might be wondering what all the fuss is about.\u2026 [+6394 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Julian Shen-Berro",
-            "title": "Person County deputy shoots to death a man holding hostages, sheriff says",
-            "description": "The Person County Sheriff\u2019s Office said the deputy has been placed on leave while the State Bureau of Investigations reviews the shooting.",
-            "url": "https://news.yahoo.com/person-county-deputy-shoots-death-201718021.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/fNym6geeyzCgO893gwlmBg--~B/aD02NDE7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/raleigh_news_and_observer_mcclatchy_712/a5cbc20f1ed1bb94525fc30ea865cb62",
-            "publishedAt": "2021-04-03T20:17:18Z",
-            "content": "The fact that this guy is a sitting member of Congress shows just how low we set the bar for our (male) politicians Matt Gaetz: a man who has spent his career reveling in scandal rather than actually\u2026 [+7150 chars]"
+        "author": "Ryan Lenora Brown",
+        "title": "In South African architecture, women build on social justice",
+        "description": "Diversity in architecture and urban design is part of a wider conversation about who gets to design the spaces we move through every day.",
+        "url": "https://news.yahoo.com/south-african-architecture-women-build-162635386.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "publishedAt": "2021-04-20T16:26:35Z",
+        "content": "When Ngillan Faal was growing up in Gambia, in West Africa, it was clear to her that her familys colonial bungalow had not been designed by or for people like them.\r\nIt had a kitchen with a stove, bu\u2026 [+6743 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "IndieWire"
-            },
-            "author": "Jude Dry",
-            "title": "Seeing Sugar Daddies Prowl NYU Inspired Emma Seligman to Make the Darkly Feminist Comedy \u2018Shiva Baby\u2019",
-            "description": "Fresh out of NYU, Seligman tells IndieWire how she explored bisexuality, sex work, and empowerment from a darkly funny Jewish lens in her impressive first feature.",
-            "url": "https://www.indiewire.com/2021/04/shiva-baby-director-emma-seligman-interview-1234627680/",
-            "urlToImage": "https://www.indiewire.com/wp-content/uploads/2020/03/shiva-baby-185176.jpg",
-            "publishedAt": "2021-04-03T15:00:59Z",
-            "content": "If your first film is like your first-born child, then the adage would hold that it takes a village to make a movie. Especially when you\u2019re fresh out of film school, just 24 years old, and working on\u2026 [+5550 chars]"
+        "author": "Julian Shen-Berro",
+        "title": "Person County deputy shoots to death a man holding hostages, sheriff says",
+        "description": "The Person County Sheriff\u2019s Office said the deputy has been placed on leave while the State Bureau of Investigations reviews the shooting.",
+        "url": "https://news.yahoo.com/person-county-deputy-shoots-death-201718021.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/fNym6geeyzCgO893gwlmBg--~B/aD02NDE7dz0xMTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/raleigh_news_and_observer_mcclatchy_712/a5cbc20f1ed1bb94525fc30ea865cb62",
+        "publishedAt": "2021-04-03T20:17:18Z",
+        "content": "The fact that this guy is a sitting member of Congress shows just how low we set the bar for our (male) politicians Matt Gaetz: a man who has spent his career reveling in scandal rather than actually\u2026 [+7150 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "IndieWire"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Paresh Dave",
-            "title": "U.S. senators criticize Apple for not testifying on antitrust concerns - Yahoo Canada Finance",
-            "description": "U.S. senators criticize Apple for not testifying on antitrust concerns\u00a0\u00a0Yahoo Canada Finance\r\nApple used iMessage exclusivity to maintain platform lock-in\u00a0\u00a0MobileSyrup\r\nApple says iMessage on Android \u2018will hurt us more than help us\u2019\u00a0\u2026",
-            "url": "https://ca.finance.yahoo.com/news/u-senators-criticize-apple-not-200230619.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/shw30Ko7te8GHrJ1jSWPdQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/804c12f6938cb8e25e9a0fc42d620e73",
-            "publishedAt": "2021-04-09T20:02:30Z",
-            "content": "Its been 20 years since Tara Reid played Melody Valentine, the sweet, spacey drummer from Josie and the Pussycats, but she still talks about her as one would a beloved friend. Out of all the characte\u2026 [+11362 chars]"
+        "author": "Jude Dry",
+        "title": "Seeing Sugar Daddies Prowl NYU Inspired Emma Seligman to Make the Darkly Feminist Comedy \u2018Shiva Baby\u2019",
+        "description": "Fresh out of NYU, Seligman tells IndieWire how she explored bisexuality, sex work, and empowerment from a darkly funny Jewish lens in her impressive first feature.",
+        "url": "https://www.indiewire.com/2021/04/shiva-baby-director-emma-seligman-interview-1234627680/",
+        "urlToImage": "https://www.indiewire.com/wp-content/uploads/2020/03/shiva-baby-185176.jpg",
+        "publishedAt": "2021-04-03T15:00:59Z",
+        "content": "If your first film is like your first-born child, then the adage would hold that it takes a village to make a movie. Especially when you\u2019re fresh out of film school, just 24 years old, and working on\u2026 [+5550 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
         },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Keydra Manns",
-            "title": "Texans QB Deshaun Watson accused of sexual misconduct by three more women",
-            "description": "More women are accusing Houston Texans quarterback Deshaun Watson of sexual misconduct.  Three separate lawsuits were filed on Sunday\u00a0accusing him of...",
-            "url": "https://news.yahoo.com/texans-qb-deshaun-watson-accused-230400891.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/SeRJhwmpHcE01yUzhRihEQ--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thegrio_yahoo_articles_946/e5c7766885434bc144a46a1d1718773b",
-            "publishedAt": "2021-03-30T23:04:00Z",
-            "content": "The total number of civil lawsuits filed against him is now 19\r\nMore women are accusing Houston Texans quarterback Deshaun Watson of sexual misconduct.\r\nThree separate lawsuits were filed on Sunday a\u2026 [+5844 chars]"
-        }
-    ]
-}
+        "author": "Paresh Dave",
+        "title": "U.S. senators criticize Apple for not testifying on antitrust concerns - Yahoo Canada Finance",
+        "description": "U.S. senators criticize Apple for not testifying on antitrust concerns\u00a0\u00a0Yahoo Canada Finance\r\nApple used iMessage exclusivity to maintain platform lock-in\u00a0\u00a0MobileSyrup\r\nApple says iMessage on Android \u2018will hurt us more than help us\u2019\u00a0\u2026",
+        "url": "https://ca.finance.yahoo.com/news/u-senators-criticize-apple-not-200230619.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/shw30Ko7te8GHrJ1jSWPdQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/804c12f6938cb8e25e9a0fc42d620e73",
+        "publishedAt": "2021-04-09T20:02:30Z",
+        "content": "Its been 20 years since Tara Reid played Melody Valentine, the sweet, spacey drummer from Josie and the Pussycats, but she still talks about her as one would a beloved friend. Out of all the characte\u2026 [+11362 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Keydra Manns",
+        "title": "Texans QB Deshaun Watson accused of sexual misconduct by three more women",
+        "description": "More women are accusing Houston Texans quarterback Deshaun Watson of sexual misconduct.  Three separate lawsuits were filed on Sunday\u00a0accusing him of...",
+        "url": "https://news.yahoo.com/texans-qb-deshaun-watson-accused-230400891.html",
+        "urlToImage": "https://s.yimg.com/uu/api/res/1.2/SeRJhwmpHcE01yUzhRihEQ--~B/aD00MjI7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thegrio_yahoo_articles_946/e5c7766885434bc144a46a1d1718773b",
+        "publishedAt": "2021-03-30T23:04:00Z",
+        "content": "The total number of civil lawsuits filed against him is now 19\r\nMore women are accusing Houston Texans quarterback Deshaun Watson of sexual misconduct.\r\nThree separate lawsuits were filed on Sunday a\u2026 [+5844 chars]"
+    }
+]

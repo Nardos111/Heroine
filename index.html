@@ -6,12 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="./CSS/index.css">
+    <script src="news.json"></script>
     <script type="text/javascript" src="./Scripts/index.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
         integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
         crossorigin="anonymous"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
     <title>Website</title>
 </head>
 
@@ -26,12 +28,302 @@
             <li><a href="./Pages/mentorship.html"><span>Mentorship</span></a></li>
         </ul>
     </div>
-    <!-- <div id="top_image">
-        <img src="./Resources/Images/image.png" alt="">
-    </div> -->
-    <div class="container">
-        <ul class="class-list"></ul>
+    <div class="max-w-screen-xl mx-auto my-5 sm:my-10 p-5 sm:p-0">
+        <div class="grid grid-cols-1 md:grid-cols-4 sm:grid-cols-2 gap-5">
+
+            <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+                style="height: 450px; background-image:url(https://i.guim.co.uk/img/media/dfca8a73be84c4c57ebb661e7986ec1dd9289861/500_0_2253_1353/master/2253.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=490523f16ddfbf1f2e8c855c311e582a);">
+                <div class="absolute top-0 mt-20 right-0 bottom-0 left-0 bg-gradient-to-b from-transparent to-gray-900">
+                </div>
+                <div class="absolute top-0 right-0 left-0 mx-5 mt-2 flex justify-between items-center">
+                    <a href="#"
+                        class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition ease-in-out duration-500">Oprah
+                        Winfrey</a>
+                </div>
+                <main class="p-5 z-10">
+                    <a href="#"
+                        class="text-md tracking-tight font-medium leading-7 font-regular text-white hover:underline">"Passion
+                        is energy. Feel the power that comes from focusing on what excites you."
+                    </a>
+                </main>
+
+            </div>
+
+            <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+                style="height: 450px; background-image:url(https://about.fb.com/wp-content/uploads/2019/08/sheryl-sandberg.jpg?fit=3240%2C2160);">
+                <div class="absolute top-0 mt-20 right-0 bottom-0 left-0 bg-gradient-to-b from-transparent to-gray-900">
+                </div>
+                <div class="absolute top-0 right-0 left-0 mx-5 mt-2 flex justify-between items-center">
+                    <a href="#"
+                        class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition ease-in-out duration-500">Sheryl
+                        Sandberg</a>
+                </div>
+                <main class="p-5 z-10">
+                    <a href="#"
+                        class="text-md tracking-tight font-medium leading-7 font-regular text-white hover:underline">"
+                        Feeling confident -- or pretending that you feel confident -- is necessary to reach for
+                        opportunities. It's a cliche, but opportunities are rarely offered; they're seized. "
+                    </a>
+                </main>
+
+            </div>
+
+            <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+                style="height: 450px; background-image:url(https://static.toiimg.com/thumb/msid-78447732,width-1200,height-900,resizemode-4/.jpg);">
+                <div class="absolute top-0 mt-20 right-0 bottom-0 left-0 bg-gradient-to-b from-transparent to-gray-900">
+                </div>
+                <div class="absolute top-0 right-0 left-0 mx-5 mt-2 flex justify-between items-center">
+                    <a href="#"
+                        class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition ease-in-out duration-500">Priyanka
+                        Chopra</a>
+                </div>
+                <main class="p-5 z-10">
+                    <a href="#"
+                        class="text-md tracking-tight font-medium leading-7 font-regular text-white hover:underline">"
+                        Don't try to squeeze into a glass slipper. Instead, shatter the glass ceiling.
+                    </a>
+                </main>
+
+            </div>
+
+            <div class="relative w-full flex items-end justify-start text-left bg-cover bg-center"
+                style="height: 450px; background-image:url(https://www.vietjetair.com/UserFiles/image/tin-tuc/2019/11/6/Madam-Nguyen-Thi-Phuong-Thao_3.jpg);">
+                <div class="absolute top-0 mt-20 right-0 bottom-0 left-0 bg-gradient-to-b from-transparent to-gray-900">
+                </div>
+                <div class="absolute top-0 right-0 left-0 mx-5 mt-2 flex justify-between items-center">
+                    <a href="#"
+                        class="text-xs bg-indigo-600 text-white px-5 py-2 uppercase hover:bg-white hover:text-indigo-600 transition ease-in-out duration-500">Nguyen
+                        Thi Phuong Thao</a>
+                </div>
+                <main class="p-5 z-10">
+                    <a href="#"
+                        class="text-md tracking-tight font-medium leading-7 font-regular text-white hover:underline">Together
+                        with optimism and a sense of humor - challenges can only be overcome with this attitude. </a>
+                </main>
+
+            </div>
+
+        </div>
     </div>
+    <div>
+        <p id="details">Women and girls are key agents of development and change. Achieving gender equality and
+            empowering
+            women and girls is vital to building fair, inclusive, prosperous and peaceful societies everywhere. The
+            empowerment and autonomy of women and the improvement of their political, social, economic and health status
+            is
+            a highly important end in itself. In all parts of the world, women are facing threats to their lives, health
+            and
+            well- being as a result of being overburdened with work and of their lack of power and influence. In most
+            regions of the world, women receive less formal education than men, and at the same time, women's own
+            knowledge,
+            abilities and coping mechanisms often go unrecognized.
+            The power relations that impede women's attainment of
+            healthy and fulfilling lives operate at many levels of society, from the most personal to the highly public.
+            Achieving change requires policy and programme actions that will improve women's access to secure
+            livelihoods
+            and economic resources, alleviate their extreme responsibilities with regard to housework, remove legal
+            impediments to their participation in public life, and raise social awareness through effective programmes
+            of
+            education and mass communication.</p>
+    </div>
+    <div id="leftp">
+        <p class="details"></p>
+    </div>
+    <div class="bg-gray-100 my-20 py-20 news px-10 sm:px-16">
+        <div class="max-w-screen-xl mx-auto relative">
+            <div class="border-b mb-5 flex justify-between text-sm">
+                <div class="text-indigo-600 flex items-center pb-2 pr-2 border-b-2 border-indigo-600 uppercase">
+                    <a href="#" class="font-semibold inline-block">News</a>
+                </div>
+                <a href="#">See All</a>
+            </div>
+            <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-10">
+
+                <div class="flex flex-col justify-between border-b pb-5">
+                    <a href="https://www.nytimes.com/2021/04/10/us/a-love-letter-to-black-women.html"
+                        class="text-gray-900 font-medium hover:text-indigo-600">A Love Letter to Black Women</a>
+                    <div class="flex items-start justify-between mt-3">
+                        <div class="text-sm w-2/3">
+                            <p class="text-gray-700">A first solo exhibition by the Bahamian artist Gio Swaby aims to
+                                redefine the often politicized Black body.</p>
+                            <p class="text-gray-600 text-xs">2021-04-10T12:03:16Z</p>
+                        </div>
+                        <a href="#" class="inline-block ml-2">
+                            <div class="w-20 h-20 bg-cover bg-center"
+                                style="background-image:url(https://static01.nyt.com/images/2021/04/10/arts/10race-related-artist/10race-related-artist-facebookJumbo.jpg);">
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+                <div class="flex flex-col justify-between border-b pb-5">
+                    <a href="https://www.nytimes.com/2021/04/23/sports/olympics/simone-biles-athleta-nike.html"
+                        class="text-gray-900 font-medium hover:text-indigo-600">Simone Biles Leaves Nike for a
+                        Sponsor That Focuses on Women</a>
+                    <div class="flex items-start justify-between mt-3">
+                        <div class="text-sm w-2/3">
+                            <p class="text-gray-700">As part of the deal, Athleta, the new sponsor, has agreed to back a
+                                post-Olympic exhibition tour that Biles was already planning.</p>
+                            <p class="text-gray-600 text-xs">2021-04-23T22:42:41Z</p>
+                        </div>
+                        <a href="https://www.nytimes.com/2021/04/23/sports/olympics/simone-biles-athleta-nike.html"
+                            class="inline-block ml-2">
+                            <div class="w-20 h-20 bg-cover bg-center"
+                                style="background-image:url(https://static01.nyt.com/images/2021/04/24/sports/23biles-nike-athleta-print/23biles-nike-athleta-facebookJumbo.jpg);">
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+                <div class="flex flex-col justify-between border-b pb-5">
+                    <a href="https://www.nytimes.com/2021/04/22/theater/living-newspaper-royal-court.html"
+                        class="text-gray-900 font-medium hover:text-indigo-600">Living Newspaper' at the Royal
+                        Court Theater Stirs Up Stories of Our Time</a>
+                    <div class="flex items-start justify-between mt-3">
+                        <div class="text-sm w-2/3">
+                            <p class="text-gray-700">Tired of reading the headlines? You can watch artistic
+                                interpretations of the stories of our era by . . .</p>
+                            <p class="text-gray-600 text-xs">Aug 18</p>
+                        </div>
+                        <a href="#" class="inline-block ml-2">
+                            <div class="w-20 h-20 bg-cover bg-center"
+                                style="background-image:url(https://static01.nyt.com/images/2021/04/22/world/22londontheater01/22londontheater01-facebookJumbo.jpg);">
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+                <div class="flex flex-col justify-between pb-5">
+                    <a href="https://news.yahoo.com/kamala-harris-appears-women-event-202144481.html"
+                        class="text-gray-900 font-medium hover:text-indigo-600">Kamala Harris appears at
+                        women\u2019s event with Bill Clinton after anger over sexual harassment claims against him</a>
+                    <div class="flex items-start justify-between mt-3">
+                        <div class="text-sm w-2/3">
+                            <p class="text-gray-700">The talk, held on Friday, was to discuss female empowerment amid
+                                Covid-19</p>
+                            <p class="text-gray-600 text-xs">2021-03-26T20:21:44Z</p>
+                        </div>
+                        <a href="#" class="inline-block ml-2">
+                            <div class="w-20 h-20 bg-cover bg-center"
+                                style="background-image:url(https://s.yimg.com/uu/api/res/1.2/SzvT_gCsyjeX.yx_KIGvZA--~B/aD0zMDc7dz00NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_independent_635/a90b4f197ce3c689f2098845355defb8);">
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+                <div class="flex flex-col justify-between pb-5">
+                    <a href="https://www.marketwatch.com/story/kamala-harris-and-bill-clinton-are-holding-a-talk-about-womens-empowerment-cue-the-critics-11616604751"
+                        class="text-gray-900 font-medium hover:text-indigo-600">The Margin: Kamala Harris and Bill
+                        Clinton are holding a talk about women 2019s empowerment 2014 cue the critics</a>
+                    <div class="flex items-start justify-between mt-3">
+                        <div class="text-sm w-2/3">
+                            <p class="text-gray-700">Some people are bringing up the former president 2019s history with
+                                women</p>
+                            <p class="text-gray-600 text-xs">2021-03-24T15:52:00Z</p>
+                        </div>
+                        <a href="#" class="inline-block ml-2">
+                            <div class="w-20 h-20 bg-cover bg-center"
+                                style="background-image:url(https://images.mktw.net/im-315808/social);">
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+                <div class="flex flex-col justify-between pb-5">
+                    <a href="https://www.thehindu.com/news/national/india-contributes-300000-to-un-women/article34221932.ece"
+                        class="text-gray-900 font-medium hover:text-indigo-600">India contributes $300,000 to UN
+                        Women</a>
+                    <div class="flex items-start justify-between mt-3">
+                        <div class="text-sm w-2/3">
+                            <p class="text-gray-700">India made the contribution to UN Women, the world organisation
+                                2019s entity for gender equality and women's empowerment.</p>
+                            <p class="text-gray-600 text-xs">2021-04-02T07:00:10Z</p>
+                        </div>
+                        <a href="#" class="inline-block ml-2">
+                            <div class="w-20 h-20 bg-cover bg-center"
+                                style="background-image:url(https://www.thehindu.com/news/national/ikel9r/article33939646.ece/ALTERNATES/LANDSCAPE_615/thjc--T-S-Tirumurti);">
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="max-w-screen-xl mx-auto relative p-5 sm:p-0">
+        <div class="grid grid-cols-1 sm:grid-cols-12 gap-10">
+
+            <div class="sm:col-span-6 lg:col-span-9">
+                <a href="#">
+                    <div class="bg-cover text-center overflow-hidden"
+                        style="min-height: 500px; background-image: url('https://scandasia.com/wp-content/uploads/2021/03/EMIN.jpg')"
+                        title="Woman holding a mug">
+                    </div>
+                </a>
+                <div
+                    class="mt-3 text-center bg-white rounded-b lg:rounded-b-none lg:rounded-r flex flex-col justify-between leading-normal">
+                    <div class="">
+                        <a href="#"
+                            class="text-xs text-indigo-600 uppercase font-medium hover:text-gray-900 transition duration-500 ease-in-out">
+                            WOMEN
+                        </a>
+                        <a href="#"
+                            class="block text-gray-900 font-bold text-2xl mb-2 hover:text-indigo-600 transition duration-500 ease-in-out">
+                            Here’s to strong women: may we know them, may we be them, may we raise them.</a>
+                        <p class="text-gray-700 text-base mt-2 mx-5 sm:mx-10">Let's get more women in global leadership
+                            goals</p>
+
+                    </div>
+
+                </div>
+                <form action="#">
+                    <input type="https://www.google.com/" placeholder="Join our mailing list" />
+                    <input type="submit" value="Subscribe" />
+                </form>
+            </div>
+
+
+            <div class="sm:col-span-12 lg:col-span-3">
+                <div class="mb-2">
+                    <a href="#">
+                        <div class="h-40 bg-cover text-center overflow-hidden"
+                            style="background-image: url('https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/pu8qg7djqbxzt2cgvlcv.png')"
+                            title="Woman holding a mug">
+                        </div>
+                    </a>
+                    <a href="https://jalopnik.com/bogi-lateiner-of-all-girls-garage-on-the-empowerment-of-1846566946"
+                        class="text-gray-900 inline-block font-semibold text-md my-2 hover:text-indigo-600 transition duration-500 ease-in-out">Bogi
+                        Lateiner Of 'All Girls Garage' On The Empowerment Of Repairing Your Own Vehicle</a>
+                </div>
+                <div class="mb-2">
+                    <a href="#">
+                        <div class="h-40 bg-cover text-center overflow-hidden"
+                            style="background-image: url('https://static.politico.com/c8/c4/dd2581fb4799a6a66ebf77333c62/20210331-ivanka-trump-ap-773.jpg')"
+                            title="Woman holding a mug">
+                        </div>
+                    </a>
+                    <a href="https://www.politico.com/news/2021/03/31/ivanka-trumps-womens-empowerment-push-undercut-by-shoddy-implementation-478710"
+                        class="text-gray-900 inline-block font-semibold text-md my-2 hover:text-indigo-600 transition duration-500 ease-in-out">Ivanka
+                        Trump's women's empowerment push undercut by shoddy implementation</a>
+                </div>
+                <div class="">
+                    <a href="#">
+                        <div class="h-40 bg-cover text-center overflow-hidden"
+                            style="background-image: url('https://www.gannett-cdn.com/presto/2021/04/01/USAT/3a3a0b39-4ac2-4a10-9478-b0700d77d4c1-hollywood_allies_topper_v2.jpg?crop=1442,811,x0,y224&width=1200')"
+                            title="Woman holding a mug">
+                        </div>
+                    </a>
+                    <a href="https://www.usatoday.com/in-depth/entertainment/celebrities/2021/04/05/hollywood-power-players-these-men-helping-achieve-gender-equity/7000554002/"
+                        class="text-gray-900 inline-block font-semibold text-md my-2 hover:text-indigo-600 transition duration-500 ease-in-out">How
+                        Hollywood's male power players can step up and be allies to women</a>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
 </body>
 
 
