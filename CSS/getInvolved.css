@@ -1,0 +1,23 @@
+@import url(./business.css);
+#logo:after {
+    content: "Get Involved";
+    position: absolute;
+    font-size: 140px;
+    left: 40px;
+}
+
+#logo {
+    margin-left: 120px;
+}
+
+p {
+    font-size: 17px;
+    text-align: justify;
+    line-height: 30px;
+    margin-top: 60px !important;
+    margin-bottom: 40px !important;
+}
+
+.last {
+    margin-bottom: 50px;
+}
